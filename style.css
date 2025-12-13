@@ -1,4 +1,13 @@
-h1{
-    display: flex;
-    font-size: 200px;
+#header{
+    background: red;
+    border-radius: 30px;
+    .header{
+        
+        .end{
+            display: flex;
+            gap: 50px;
+            padding-left: 250px;
+            color: black;
+        }
+    }
 }
